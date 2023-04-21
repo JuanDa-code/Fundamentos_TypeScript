@@ -19,5 +19,8 @@
   "homepage": "https://github.com/JuanDa-code/Fundamentos_TypeScript#readme",
   "devDependencies": {
     "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.3"
   }
 }
